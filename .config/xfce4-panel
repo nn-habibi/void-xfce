@@ -1,0 +1,44 @@
+####################
+### XFCE4 PANEL ##
+####################
+
+
+# PANEL 1
+
+Separator (Transparent)
+
+Whisker Menu
+General: List, show category, show tooltips, show descriptions, Small, Smaller, 100
+Appearance: Profile Round, Display Icon and Title, Title " Void ", Icon void
+Behavior: Favorites, Sort categories, 10, Include, Show confirmation
+Commands: Settings, Lock screen, Log out..., Edit application, Edit profile
+
+Separator (Transparent)
+Show Desktop
+Separator (Transparent)
+Launcher (Terminal)
+Launcher (File Manager)
+Launcher (Firefox ESR)
+Launcher (LibreOffice Writer)
+Launcher (Zotero)
+Launcher (Publish or Perish)
+
+Window Buttons
+Show button labels, Show handle, Sorting Group title and timestamp, Always, Nothing, Switch windos using mouse wheel, Show windows from all monitors
+
+Separator (Transparent - Expand)
+Separator (Transparent)
+
+Status Tray Plugin
+Show label None
+
+Adjuct size automatically, Square items
+
+Power Manager Plugin
+Notification Plugin
+Separator (Transparent)
+Clock (%a %d %b, %R)
+Separator (Transparent)
+
+Action Buttons
+Appearance Action buttons, Log Out..., Show confirmation dialog
