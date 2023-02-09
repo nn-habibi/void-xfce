@@ -159,5 +159,5 @@ Sistem operasi diinstall pada flashdisk.
 	vpsm bb
 	```
 
-4. Mengatur `xfce4-panel`
+4. Mengatur config `xfce4` pada `~/.config/xfce4/`
 
